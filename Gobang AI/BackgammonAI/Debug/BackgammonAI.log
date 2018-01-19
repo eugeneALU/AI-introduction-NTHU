@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\c++ project\五子棋ai\backgammonai\main.cpp(598): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+d:\c++ project\五子棋ai\backgammonai\main.cpp(712): warning C4715: 'expand': 不是所有控制路徑都傳回值
+d:\c++ project\五子棋ai\backgammonai\main.cpp(621): warning C4172: 傳回區域變數或暫存的位址: bestchoose
+  BackgammonAI.vcxproj -> D:\C++ project\五子棋AI\Debug\BackgammonAI.exe
+  BackgammonAI.vcxproj -> D:\C++ project\五子棋AI\Debug\BackgammonAI.pdb (Partial PDB)
